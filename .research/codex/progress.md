@@ -16,6 +16,7 @@ This document tracks the expansion and creation of the Golang API research codex
 - `chapter-10-testing-strategy-research.md`
 - `chapter-11-observability-research.md`
 - `chapter-12-performance-research.md`
+- `chapter-13-deployment-devops-research.md`
 
 ## Newly Created Files
 - `progress.md` (This file)
@@ -33,6 +34,7 @@ This document tracks the expansion and creation of the Golang API research codex
 - `chapter-10-testing-strategy-research.md`
 - `chapter-11-observability-research.md`
 - `chapter-12-performance-research.md`
+- `chapter-13-deployment-devops-research.md`
 
 ## Missing or Incomplete Areas (To Be Handled)
 - All 19 existing chapters require expansion.
